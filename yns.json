@@ -1,1 +1,44 @@
+{
+  "active": true,
+  "password_required": true,
 
+  "users": {
+
+    "uid_358208": { "name": "UsamaTrader15k", "password": "UsamaTraderPc" },
+    "uid_801432": { "name": "YashTrader35$", "password": "YashTrader35-2MonthRemainingDays$" },
+    "uid_939225": { "name": "CryptoBhai30$", "password": "Pc9k-7k-R" },
+    "uid_435976": { "name": "PakBull20$", "password": "PakBull20$" },
+    "uid_923656": { "name": "UmairTrader8k+4k", "password": "4kpc" },
+    "uid_389168": { "name": "SaifTrader$", "password": "SaifTrader$" },
+    "uid_839193": { "name": "ELTRADER-PC-LAPTOP-20$", "password": "Both-Laptop-Pc20$" },
+    "uid_553352": { "name": "ELTRADER-PC-LAPTOP-20$", "password": "Both-Laptop-Pc20$" },
+    "uid_627368": { "name": "ShaheryarTrader6k", "password": "Shaheryar6kPc" },
+    "uid_127888": { "name": "ProLaptopTrader", "password": "ProLaptopTrader" },
+    "uid_129686": { "name": "AndroidKing6k", "password": "AndroidKing6k" },
+    "uid_504342": { "name": "MalikTraderLaptop13k", "password": "Laptop13k" },
+    "uid_700717": { "name": "TalalIqbal-TWK-Refrence", "password": "6k$" },
+    "uid_302685": { "name": "DawoodTrader8k", "password": "DwoodTrader8k" },
+    "uid_846320": { "name": "AQTTrader6k", "password": "AQT6k" },
+    "uid_351632": { "name": "TKNAWAZLAPTOP", "password": "AQT6k" },
+    "uid_394047": { "name": "MySamsung", "password": "m" }
+
+  },
+
+  "blocked": [
+    "uid_120001",
+    "uid_120002",
+    "uid_120003",
+    "uid_120004",
+    "uid_120005",
+    "uid_120006",
+    "uid_120007",
+    "uid_120008",
+    "uid_120009",
+    "uid_120010",
+    "uid_120011",
+    "uid_120012",
+    "uid_120013",
+    "uid_120014",
+    "uid_120015"
+  ]
+}
