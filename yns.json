@@ -50,10 +50,6 @@
       "name": "KHATTAPONTOP40$Android",
       "password": "Android40$"
     },
-    "uid_743128": {
-      "name": "KHATTAKONTOP40$Laptop",
-      "password": "Laptop40$"
-    },
     "uid_142149": {
       "name": "TalalIqbal-TWK-Refrence",
       "password": "13.5k"
@@ -89,6 +85,10 @@
     "uid_627368": {
       "name": "ShaheryarLaptop5k",
       "password": "Laptop5k"
+    },
+    "uid_266555": {
+      "name": "KHATTAKONTOP40$Laptop",
+      "password": "Laptop40$"
     }
   },
   "blocked": [
