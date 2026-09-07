@@ -38,10 +38,6 @@
       "name": "ELTRADER-LAPTOP-20$",
       "password": "Both-Laptop-Pc20$"
     },
-    "uid_147001": {
-      "name": "HASSANTRADERAndroid70$",
-      "password": "HassanTraderAndroid70$"
-    },
     "uid_682934": {
       "name": "JaniTraderPc30$",
       "password": "JaniTraderPcOnly"
@@ -121,6 +117,10 @@
     "uid_00000": {
       "name": "2-Tk Nawaz Trader android (Both)9k",
       "password": "Android"
+    },
+    "uid_731853": {
+      "name": "HASSANTRADERAndroid70$",
+      "password": "HassanTraderAndroid70$"
     }
   },
   "blocked": [
