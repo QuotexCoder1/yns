@@ -54,10 +54,6 @@
       "name": "AQTTrader6k",
       "password": "AQT6k"
     },
-    "uid_759221": {
-      "name": "ELTTRADERANDROID",
-      "password": "ELTANDROIDO"
-    },
     "uid_314759": {
       "name": "AfridiTraderAndroid",
       "password": "2500AfridiAndroid"
@@ -145,6 +141,10 @@
     "uid_347712": {
       "name": "Mustafa-Talha-Android",
       "password": "Android"
+    },
+    "uid_918565": {
+      "name": "ELTTRADERANDROID",
+      "password": "ELTANDROIDO"
     }
   },
   "blocked": [
