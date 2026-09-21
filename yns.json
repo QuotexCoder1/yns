@@ -149,6 +149,10 @@
     "uid_923656": {
       "name": "UMAIR TRADER 150$ BINANCE+ANDROID+LAPTOP",
       "password": "U"
+    },
+    "uid_00000": {
+      "name": "Test",
+      "password": "t"
     }
   },
   "blocked": [
@@ -168,7 +172,6 @@
     "uid_120014",
     "uid_120015"
   ],
-
   "floating_notice": {
     "enabled": true,
     "message": "🔥 Aaj 8 PM pe live session hai! Sab join karein",
