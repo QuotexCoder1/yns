@@ -70,10 +70,6 @@
       "name": "Mypc",
       "password": "m"
     },
-    "uid_627368": {
-      "name": "ShaheryarLaptop5k",
-      "password": "Laptop5k"
-    },
     "uid_283205": {
       "name": "SAWTrader20$ForPc",
       "password": "20$Pc"
@@ -181,6 +177,10 @@
     "uid_580519": {
       "name": "Ahmi Trader 0306 wala 20$",
       "password": "A"
+    },
+    "uid_721845": {
+      "name": "ShaheryarLaptop5k",
+      "password": "Laptop5k"
     }
   },
   "blocked": [
