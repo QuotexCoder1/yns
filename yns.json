@@ -211,7 +211,7 @@
     "uid_369128"
   ],
   "floating_notice": {
-    "enabled": false,
+    "enabled": true,
     "message": "🔥 Aaj 8 PM pe live session hai! Sab join karein",
     "position": "bottom-right",
     "color": "#00ffaa",
