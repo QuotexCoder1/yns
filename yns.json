@@ -146,10 +146,6 @@
       "name": "UMAIR TRADER 150$ BINANCE+ANDROID+LAPTOP",
       "password": "U"
     },
-    "uid_540642": {
-      "name": "My",
-      "password": "m"
-    },
     "uid_225764": {
       "name": "USAMA TRADER ANDROID 70$",
       "password": "u"
@@ -185,6 +181,10 @@
     "uid_369128": {
       "name": "My",
       "password": "uid_369128"
+    },
+    "uid_310259": {
+      "name": "My",
+      "password": "m"
     }
   },
   "blocked": [
