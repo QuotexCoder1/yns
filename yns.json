@@ -154,10 +154,6 @@
       "name": "My",
       "password": "m"
     },
-    "uid_00000": {
-      "name": "KINGTRADERAndroid35$",
-      "password": "KingTrader35$"
-    },
     "uid_00001": {
       "name": "1-DilDarAfridiAndroid50$",
       "password": "Dildar50$"
@@ -185,6 +181,10 @@
     "uid_135801": {
       "name": "ShahSawarTrader 30$ (Premium) 4k Remaining",
       "password": "S"
+    },
+    "uid_414849": {
+      "name": "KINGTRADERAndroid35$",
+      "password": "KingTrader35$"
     }
   },
   "blocked": [
