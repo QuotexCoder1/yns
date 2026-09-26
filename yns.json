@@ -2,10 +2,6 @@
   "active": true,
   "password_required": true,
   "users": {
-    "uid_526722": {
-      "name": "1-DilDarAfridiAndroid50$",
-      "password": "Dildar50$"
-    },
     "uid_603331": {
       "name": "2-BadshahTrader13kAndroid",
       "password": "Badshah13k"
@@ -185,6 +181,10 @@
     "uid_00000": {
       "name": "KINGTRADERAndroid35$",
       "password": "KingTrader35$"
+    },
+    "uid_00001": {
+      "name": "1-DilDarAfridiAndroid50$",
+      "password": "Dildar50$"
     }
   },
   "blocked": [
