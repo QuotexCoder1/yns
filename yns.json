@@ -54,10 +54,6 @@
       "name": "SAWTrader20$ForPc",
       "password": "20$Pc"
     },
-    "uid_526366": {
-      "name": "IJAZAFRIDITRADERLAPTOP13K",
-      "password": "Laptop13k"
-    },
     "uid_226555": {
       "name": "KHATTAKONTOP40$Laptop",
       "password": "Laptop40$"
@@ -185,6 +181,10 @@
     "uid_00004": {
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
+    },
+    "uid_00005": {
+      "name": "IJAZAFRIDITRADERLAPTOP13K",
+      "password": "Laptop13k"
     }
   },
   "blocked": [
