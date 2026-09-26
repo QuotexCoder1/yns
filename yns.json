@@ -150,10 +150,6 @@
       "name": "My",
       "password": "m"
     },
-    "uid_00001": {
-      "name": "1-DilDarAfridiAndroid50$",
-      "password": "Dildar50$"
-    },
     "uid_00002": {
       "name": "2-BadshahTrader13kAndroid",
       "password": "Badshah13k"
@@ -185,6 +181,10 @@
     "uid_478452": {
       "name": "SaifTraderLaptop13k",
       "password": "Laptop13k-R"
+    },
+    "uid_526722": {
+      "name": "1-DilDarAfridiAndroid50$",
+      "password": "Dildar50$"
     }
   },
   "blocked": [
