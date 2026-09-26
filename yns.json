@@ -14,10 +14,6 @@
       "name": "WaniyaTraderAndroid30$",
       "password": "WaniaAndroid30$"
     },
-    "uid_162553": {
-      "name": "MNKTRADEROFFICIAL-Android-60$",
-      "password": "MnkAndroid60$"
-    },
     "uid_839193": {
       "name": "ELTRADER-PC-LAPTOP-20$",
       "password": "e"
@@ -185,6 +181,10 @@
     "uid_00002": {
       "name": "2-BadshahTrader13kAndroid",
       "password": "Badshah13k"
+    },
+    "uid_00003": {
+      "name": "MNKTRADEROFFICIAL-Android-60$",
+      "password": "MnkAndroid60$"
     }
   },
   "blocked": [
