@@ -18,10 +18,6 @@
       "name": "DanyalTraderAndroid30$",
       "password": "PremiumAll30$"
     },
-    "uid_414849": {
-      "name": "KINGTRADERAndroid35$",
-      "password": "KingTrader35$"
-    },
     "uid_946916": {
       "name": "WaniyaTraderAndroid30$",
       "password": "WaniaAndroid30$"
@@ -185,6 +181,10 @@
     "uid_540642": {
       "name": "My",
       "password": "m"
+    },
+    "uid_00000": {
+      "name": "KINGTRADERAndroid35$",
+      "password": "KingTrader35$"
     }
   },
   "blocked": [
