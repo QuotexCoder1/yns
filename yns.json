@@ -98,10 +98,6 @@
       "name": "2-Tk Nawaz Trader android (Both)9k",
       "password": "Android"
     },
-    "uid_588511": {
-      "name": "ShahFaisalEagleTrader40$(Laptop)",
-      "password": "Laptop"
-    },
     "uid_924214": {
       "name": "HuzziTrader(Android)14k(Premium)",
       "password": "Android"
@@ -185,6 +181,10 @@
     "uid_00005": {
       "name": "IJAZAFRIDITRADERLAPTOP13K",
       "password": "Laptop13k"
+    },
+    "uid_00006": {
+      "name": "ShahFaisalEagleTrader40$(Laptop)",
+      "password": "Laptop"
     }
   },
   "blocked": [
