@@ -142,10 +142,6 @@
       "name": "My",
       "password": "m"
     },
-    "uid_540642": {
-      "name": "My",
-      "password": "m"
-    },
     "uid_00004": {
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
@@ -185,6 +181,10 @@
     "uid_526366": {
       "name": "IJAZAFRIDITRADERLAPTOP13K",
       "password": "Laptop13k"
+    },
+    "uid_369128": {
+      "name": "My",
+      "password": "m"
     }
   },
   "blocked": [
