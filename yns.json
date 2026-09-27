@@ -2,10 +2,6 @@
   "active": true,
   "password_required": true,
   "users": {
-    "588511": {
-      "name": "ShahFaisalEagleTrader40$(Laptop)",
-      "password": "Laptop"
-    },
     "uid_000000": {
       "name": "2-SaifTraderAndroid",
       "password": "Android13k-R"
@@ -185,6 +181,10 @@
     "uid_162553": {
       "name": "MNKTRADEROFFICIAL-Android-60$(Premium)",
       "password": "MnkAndroid60$"
+    },
+    "uid_588511": {
+      "name": "ShahFaisalEagleTrader40$(Laptop)",
+      "password": "Laptop"
     }
   },
   "blocked": [
