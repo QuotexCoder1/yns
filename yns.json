@@ -150,10 +150,6 @@
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
     },
-    "uid_00005": {
-      "name": "IJAZAFRIDITRADERLAPTOP13K",
-      "password": "Laptop13k"
-    },
     "uid_135801": {
       "name": "ShahSawarTrader 30$ (Premium) 4k Remaining",
       "password": "S"
@@ -185,6 +181,10 @@
     "uid_603331": {
       "name": "2-IJAZTRADERAndroid(Premium)14.5k(both)(laptop)",
       "password": "Android"
+    },
+    "uid_526366": {
+      "name": "IJAZAFRIDITRADERLAPTOP13K",
+      "password": "Laptop13k"
     }
   },
   "blocked": [
