@@ -146,10 +146,6 @@
       "name": "My",
       "password": "m"
     },
-    "uid_00002": {
-      "name": "2-BadshahTrader13kAndroid",
-      "password": "Badshah13k"
-    },
     "uid_00004": {
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
@@ -185,6 +181,10 @@
     "uid_283205": {
       "name": "SAWTrader20$ForPc",
       "password": "20$Pc"
+    },
+    "uid_603331": {
+      "name": "2-IJAZTRADERAndroid(Premium)14.5k(both)(laptop)",
+      "password": "Laptop"
     }
   },
   "blocked": [
