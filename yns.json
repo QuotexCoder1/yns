@@ -185,10 +185,6 @@
       "name": "MySamsung",
       "password": "m"
     },
-    "uid_700694": {
-      "name": "KhanTalhaTrader",
-      "password": "k"
-    },
     "uid_987854": {
       "name": "YashSirilanka(ios)",
       "password": "y"
@@ -205,9 +201,13 @@
       "name": "My",
       "password": "m"
     },
-    "uid_131864_mum91x1c": {
+    "uid_131864": {
       "name": "Iosmy",
       "password": "m"
+    },
+    "uid_554660_mum9kh61": {
+      "name": "KhanTalhaTrader",
+      "password": "k"
     }
   },
   "blocked": [
