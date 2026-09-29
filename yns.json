@@ -153,10 +153,6 @@
       "name": "SaifTraderLaptop13k",
       "password": "Laptop13k-R"
     },
-    "uid_526722": {
-      "name": "1-DilDarAfridiAndroid50$",
-      "password": "Dildar50$"
-    },
     "uid_162553": {
       "name": "MNKTRADEROFFICIAL-Android-60$(Premium)",
       "password": "MnkAndroid60$"
@@ -212,6 +208,10 @@
     "uid_610234": {
       "name": "Khan-refrence-ismailik-ios",
       "password": "ios"
+    },
+    "uid_862425": {
+      "name": "1-DilDarAfridiAndroid50$",
+      "password": "Dildar50$"
     }
   },
   "blocked": [
