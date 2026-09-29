@@ -137,10 +137,6 @@
       "name": "ShaheryarLaptop7k",
       "password": "Laptop5k"
     },
-    "uid_310259": {
-      "name": "My",
-      "password": "m"
-    },
     "uid_00004": {
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
@@ -208,6 +204,10 @@
     "uid_830055": {
       "name": "Afk Trader 15k i(os)",
       "password": "ios"
+    },
+    "uid_471715": {
+      "name": "My",
+      "password": "m"
     }
   },
   "blocked": [
