@@ -129,10 +129,6 @@
       "name": "Atif-KhanTrader 6k(Premium) Android 1k Remaining",
       "password": "[Premium]"
     },
-    "uid_580519": {
-      "name": "Ahmi Trader 0306 wala 20$",
-      "password": "A"
-    },
     "uid_721845": {
       "name": "ShaheryarLaptop7k",
       "password": "Laptop5k"
@@ -212,6 +208,10 @@
     "uid_562707": {
       "name": "ShahSawarTrader 30$ (Premium) 4k Remaining",
       "password": "S"
+    },
+    "uid_291799": {
+      "name": "Ahmi Trader 0306 wala 20$",
+      "password": "A"
     }
   },
   "blocked": [
