@@ -193,10 +193,6 @@
       "name": "KhanTalhaTrader",
       "password": "k"
     },
-    "uid_610234": {
-      "name": "Khan-refrence-ismailik-ios",
-      "password": "ios"
-    },
     "uid_862425": {
       "name": "1-DilDarAfridiAndroid50$",
       "password": "Dildar50$"
@@ -216,6 +212,10 @@
     "uid_978966": {
       "name": "UsmanTrader30$Punjabi(ios)",
       "password": "FreeUpdate"
+    },
+    "uid_660036": {
+      "name": "Khan-refrence-ismailik-ios",
+      "password": "ios"
     }
   },
   "blocked": [
