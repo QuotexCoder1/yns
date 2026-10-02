@@ -173,10 +173,6 @@
       "name": "YashSirilanka(ios)",
       "password": "y"
     },
-    "uid_830055": {
-      "name": "Afk Trader 15k i(os)",
-      "password": "ios"
-    },
     "uid_128297": {
       "name": "My",
       "password": "m"
@@ -220,6 +216,10 @@
     "uid_375990": {
       "name": "UsamaTrader Laptop",
       "password": "laptop"
+    },
+    "uid_600660": {
+      "name": "Afk Trader 15k i(os)",
+      "password": "android"
     }
   },
   "blocked": [
@@ -241,8 +241,7 @@
     "uid_846320",
     "uid_784190",
     "uid_923656",
-    "uid_189584",
-    "uid_830055"
+    "uid_189584"
   ],
   "floating_notice": {
     "enabled": true,
