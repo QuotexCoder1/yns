@@ -125,10 +125,6 @@
       "name": "Atif-KhanTrader 6k(Premium) Android 1k Remaining",
       "password": "[Premium]"
     },
-    "uid_721845": {
-      "name": "ShaheryarLaptop7k",
-      "password": "Laptop5k"
-    },
     "uid_00004": {
       "name": "DawoodTrader8k",
       "password": "DwoodTrader8k"
@@ -232,6 +228,10 @@
     "uid_917440": {
       "name": "ELT-TRADER (IPAD)",
       "password": "ipad"
+    },
+    "uid_523999": {
+      "name": "ShaheryarLaptop7k",
+      "password": "Laptop5k"
     }
   },
   "blocked": [
