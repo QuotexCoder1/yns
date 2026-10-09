@@ -157,10 +157,6 @@
       "name": "MySamsung",
       "password": "m"
     },
-    "uid_987854": {
-      "name": "YashSirilanka(ios)",
-      "password": "y"
-    },
     "uid_128297": {
       "name": "My",
       "password": "m"
@@ -236,6 +232,10 @@
     "uid_765738": {
       "name": "2-SaifTraderios",
       "password": "(ios)"
+    },
+    "uid_143590": {
+      "name": "YashSirilanka(ios)",
+      "password": "y"
     }
   },
   "blocked": [
