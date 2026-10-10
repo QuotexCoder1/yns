@@ -49,10 +49,6 @@
       "name": "2-EhtishamTrader-Android+Bybit-100$",
       "password": "EhtishamAndroid"
     },
-    "uid_504342": {
-      "name": "MalikTraderLaptop70$",
-      "password": "Laptop70$"
-    },
     "uid_351632": {
       "name": "1-Tk Nawaz Trader Laptop 9k",
       "password": "Laptop"
@@ -236,6 +232,10 @@
     "uid_143590": {
       "name": "YashSirilanka(ios)",
       "password": "y"
+    },
+    "uid_250653": {
+      "name": "MalikTraderLaptop70$",
+      "password": "Laptop70$"
     }
   },
   "blocked": [
