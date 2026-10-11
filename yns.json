@@ -41,10 +41,6 @@
       "name": "KHATTAKONTOP40$Laptop",
       "password": "Laptop40$"
     },
-    "uid_491888": {
-      "name": "SherkoSyriaCodingCostumer30$/Pc",
-      "password": "Pc30$"
-    },
     "uid_428071": {
       "name": "2-EhtishamTrader-Android+Bybit-100$",
       "password": "EhtishamAndroid"
@@ -236,6 +232,10 @@
     "uid_250653": {
       "name": "MalikTraderLaptop70$",
       "password": "Laptop70$"
+    },
+    "uid_597305": {
+      "name": "SherkoSyriaCodingCostumer30$/Pc",
+      "password": "Pc30$"
     }
   },
   "blocked": [
