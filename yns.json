@@ -5,10 +5,6 @@
   "floating_text": "🔥Updated🔥",
   "floating_text_active": false,
   "users": {
-    "635382": {
-      "name": "UsamaTrader Laptop",
-      "password": "laptop"
-    },
     "uid_665723": {
       "name": "DanyalTraderAndroid30$",
       "password": "PremiumAll30$"
@@ -248,6 +244,10 @@
     "uid_143590": {
       "name": "YashSirilanka(ios)",
       "password": "y"
+    },
+    "uid_635382": {
+      "name": "UsamaTrader Laptop",
+      "password": "laptop"
     }
   },
   "blocked": [
