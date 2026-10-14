@@ -5,6 +5,10 @@
   "floating_text": "🔥Updated🔥",
   "floating_text_active": false,
   "users": {
+    "635382": {
+      "name": "UsamaTrader Laptop",
+      "password": "laptop"
+    },
     "uid_665723": {
       "name": "DanyalTraderAndroid30$",
       "password": "PremiumAll30$"
@@ -188,10 +192,6 @@
     "uid_660036": {
       "name": "Khan-refrence-ismailik-ios",
       "password": "ios"
-    },
-    "uid_375990": {
-      "name": "UsamaTrader Laptop",
-      "password": "laptop"
     },
     "uid_600660": {
       "name": "Afk Trader 15k i(os)",
