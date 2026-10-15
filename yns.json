@@ -225,10 +225,6 @@
       "name": "SherkoSyriaCodingCostumer30$/Pc",
       "password": "Pc30$"
     },
-    "uid_905704": {
-      "name": "HulkTrader(ios)9k all coding",
-      "password": "h"
-    },
     "uid_735987": {
       "name": "Hulktrader(pc)",
       "password": "h"
@@ -256,6 +252,10 @@
     "uid_952374": {
       "name": "ShaheryarTrader(Android)30$",
       "password": "Android"
+    },
+    "uid_312049": {
+      "name": "HulkTrader(ios)9k all coding",
+      "password": "h"
     }
   },
   "blocked": [
