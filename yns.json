@@ -233,10 +233,6 @@
       "name": "HulkTrader(android)",
       "password": "h"
     },
-    "uid_291384": {
-      "name": "AmanTraderPremiumPc10.5k+(Update) 15$",
-      "password": "AmanPc10.5k+15$"
-    },
     "uid_375990": {
       "name": "UsamaTrader Laptop",
       "password": "laptop"
@@ -276,6 +272,10 @@
     "uid_910683_mvhqyrp1": {
       "name": "YashSirilanka(ios)",
       "password": "y"
+    },
+    "uid_883461": {
+      "name": "AmanTraderPremiumPc10.5k+(Update) 15$",
+      "password": "AmanPc10.5k+15$"
     }
   },
   "blocked": [
