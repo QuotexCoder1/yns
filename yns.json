@@ -241,10 +241,6 @@
       "name": "UsamaTraderMk-Usman-Pc",
       "password": "pc"
     },
-    "uid_952374": {
-      "name": "ShaheryarTrader(Android)30$",
-      "password": "Android"
-    },
     "uid_312049": {
       "name": "HulkTrader(ios)9k all coding",
       "password": "h"
@@ -284,6 +280,10 @@
     "uid_178875": {
       "name": "UsmanTraderlaptop",
       "password": "u"
+    },
+    "uid_654602": {
+      "name": "ShaheryarTrader(ios)30$",
+      "password": "ios"
     }
   },
   "blocked": [
