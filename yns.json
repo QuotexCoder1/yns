@@ -9,10 +9,6 @@
       "name": "DanyalTraderAndroid30$",
       "password": "PremiumAll30$"
     },
-    "uid_839193": {
-      "name": "ELTRADER-PC-LAPTOP-20$",
-      "password": "e"
-    },
     "uid_553352": {
       "name": "ELTRADER-LAPTOP-20$",
       "password": "e"
@@ -284,6 +280,10 @@
     "uid_654602": {
       "name": "ShaheryarTrader(ios)30$",
       "password": "ios"
+    },
+    "uid_403746": {
+      "name": "ELTRADER-PC-LAPTOP-20$",
+      "password": "e"
     }
   },
   "blocked": [
