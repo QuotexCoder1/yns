@@ -49,10 +49,6 @@
       "name": "HASSANTRADERAndroid70$",
       "password": "HassanTraderAndroid70$"
     },
-    "uid_709377": {
-      "name": "JaniTraderPc30$",
-      "password": "JaniTraderPcOnly"
-    },
     "uid_587243": {
       "name": "AleeTrader5k-Only One-File-Pc",
       "password": "Pc"
@@ -284,6 +280,10 @@
     "uid_403746": {
       "name": "ELTRADER-PC-LAPTOP-20$",
       "password": "e"
+    },
+    "uid_622849": {
+      "name": "JaniTraderPc30$",
+      "password": "JaniTraderPcOnly"
     }
   },
   "blocked": [
