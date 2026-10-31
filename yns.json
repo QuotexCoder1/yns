@@ -213,10 +213,6 @@
       "name": "SherkoSyriaCodingCostumer30$/Pc",
       "password": "Pc30$"
     },
-    "uid_735987": {
-      "name": "Hulktrader(pc)",
-      "password": "h"
-    },
     "uid_996637": {
       "name": "HulkTrader(android)",
       "password": "h"
@@ -292,6 +288,10 @@
     "uid_102789": {
       "name": "AbbasTrader-KhanTalha-Ref-35$-Remaining",
       "password": "35$-Remaining"
+    },
+    "uid_860080": {
+      "name": "Hulktrader(pc)",
+      "password": "h"
     }
   },
   "blocked": [
