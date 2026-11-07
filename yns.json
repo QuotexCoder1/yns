@@ -304,6 +304,10 @@
     "uid_184208": {
       "name": "SyedTrader (Premium) 100$ (Android)",
       "password": "a"
+    },
+    "uid_00000": {
+      "name": "SyedTrader (Premium) 100$ (ios)",
+      "password": "i"
     }
   },
   "blocked": [
