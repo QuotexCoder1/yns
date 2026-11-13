@@ -309,10 +309,6 @@
       "name": "SyedTrader (Premium) 100$ (ios)",
       "password": "i"
     },
-    "uid_108681": {
-      "name": "SyedTrader (Premium) 100$ (pc)",
-      "password": "p"
-    },
     "uid_831360": {
       "name": "SyedTrader (Premium) 4000 (Laptop)",
       "password": "Laptop"
@@ -332,6 +328,10 @@
     "uid_783354": {
       "name": "2-JunaidTrader android 8k",
       "password": "a"
+    },
+    "uid_635905": {
+      "name": "SyedTrader (Premium) 100$ (pc)",
+      "password": "p"
     }
   },
   "blocked": [
