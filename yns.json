@@ -277,10 +277,6 @@
       "name": "AbbasTrader-KhanTalha-Ref-35$-Remaining",
       "password": "35$-Remaining"
     },
-    "uid_860080": {
-      "name": "Hulktrader(pc)",
-      "password": "h"
-    },
     "uid_209017_mw24zr3w": {
       "name": "2-Yash Sirilankan Costumer second ios",
       "password": "y-2"
@@ -355,6 +351,10 @@
     },
     "uid_189455": {
       "name": "2-HulkTrader ios update",
+      "password": "h"
+    },
+    "uid_960502": {
+      "name": "Hulktrader(pc)",
       "password": "h"
     }
   },
