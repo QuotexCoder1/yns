@@ -289,10 +289,6 @@
       "name": "SyedTrader (Premium) 100$ (Android)",
       "password": "a"
     },
-    "uid_362132": {
-      "name": "SyedTrader (Premium) 100$ (ios)",
-      "password": "i"
-    },
     "uid_831360": {
       "name": "SyedTrader (Premium) 4000 (Laptop)",
       "password": "Laptop"
@@ -356,6 +352,10 @@
     "uid_960502": {
       "name": "Hulktrader(pc)",
       "password": "h"
+    },
+    "uid_600949": {
+      "name": "SyedTrader (Premium) 100$ (ios)",
+      "password": "i"
     }
   },
   "blocked": [
